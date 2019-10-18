@@ -1,2 +1,2 @@
 # ProjectEuler
-Solutions
+Solutions .
